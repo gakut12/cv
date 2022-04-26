@@ -102,7 +102,7 @@ Snowflakeやdbtといったモダンデータスタックを取り入れ、デ�
 
 データに係る駆け込み寺的にエンジニアリングでの支援も行っている
 
-技術スタック：Snowflake、BigQuery、TreasureData、Python、Shell Script、trocco(ELTツール)、Firebase、dbt、Git Actions(CI/CD), GitHub, Tableau Desktop、GCP、AWS少々
+技術スタック：Snowflake、BigQuery、TreasureData、Python、Shell Script、trocco(ELTツール)、Firebase、dbt、Git Actions(CI/CD), GitHub, Terraform, Tableau Desktop、GCP ( Functions, GCS, IAM）、AWS（S3, IAM, EC2）
 
 ## Education
 
